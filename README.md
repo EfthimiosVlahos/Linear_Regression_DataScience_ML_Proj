@@ -1,0 +1,2 @@
+# Linear_Regression_DataScience_ML_Proj: 
+Performed data visualization/analysis on a data set (fake) of a company (fake) that produces clothing. I also performed feature engineering, split data into training and testing set, created an instance of a linear regression model, fit the model to training data, used lm.predict() to predict off the X_test set of the data, evaluated my model's performance by calculating the residual sum of squares and the explained variance score (R^2), and analyzed the relationship bw certain coeficcients.
